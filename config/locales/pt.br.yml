@@ -1,0 +1,112 @@
+pt-br:
+  field_sprint: Sprint
+  field_story_points: Story Points
+  field_board_position: Posição no Quadro
+  field_sprint_select: Selecionar Sprint
+  field_sprint_end_date: Data fim
+  field_sprint_name: Nome da Sprint
+  button_sprint_show_suggestions: Mostrar Sugestões Inteligentes
+  button_sprint_update: Atualizar Sprint
+  label_agile_board: Quadro Ágil
+  label_manage_sprints: Gerenciar Sprints
+  label_sprint_plural: Sprints
+  label_sprint_new: Nova Sprint
+  label_manage_sprint: Gerenciar Sprint
+  label_edit_sprint: Editar Sprint
+  label_filter_by_status: Filtrar por Status
+  label_board_issue_unassigned: Não Atribuído
+  label_board_issue_story_points: pts
+  label_sprint_mark_completed: Marcar como concluído
+  label_sprint_mark_active: Marcar como ativo
+  label_sprint_backlog_suggestions: Sugestões Inteligentes para o Backlog
+  permission_view_agile_board: Visualizar Quadro Ágil
+  permission_edit_agile_board: Editar Quadro Ágil
+  permission_manage_sprints: Gerenciar Sprints
+  field_difficulty: Dificuldade
+  field_difficulty_easy: Fácil
+  field_difficulty_medium: Médio
+  field_difficulty_hard: Difícil
+  field_tag_list: Lista de Tags
+  label_sprint_status: Status da Sprint
+  label_sprint_status_active: Ativo
+  label_sprint_status_completed: Concluído
+  label_sprint_actions: Ações
+  label_sprint_all_tags: Todas as tags
+  label_sprint_tags: Tags
+  label_remove_sprint: Deletar Sprint
+  text_sprint_deleted: Sprint deletada
+  text_sprint_created: Sprint criada com sucesso
+  text_sprint_updated: Sprint atualizada com sucesso
+  text_not_found_sprint: Nenhuma Sprint encontrada.
+  text_sprint_not_assigned: Não atribuído
+
+  label_dashboard_sprint: Sprint dashboard
+  label_dashboard_sprint_total_points: Total de pontos
+  label_dashboard_sprint_closed_points: Total de pontos fechados
+  label_dashboard_sprint_completed_points: Total de pontos concluídos
+  label_dashboard_sprint_completion_rate: Taxa de conclusão
+  label_dashboard_sprint_remaining_points: Pontos restantes
+  label_dashboard_sprint_days_remaining: Dias restantes
+  label_dashboard_sprint_open_issues: Problemas Abertos
+  label_dashboard_sprint_progress: Progresso
+
+  label_sprint_charts_normal: Gráficos Normais
+  label_sprint_charts_difficulty: Análise de Dificuldade
+  label_sprint_charts_velocity: Velocidade
+  label_sprint_charts_burndown: Burndown
+  label_sprint_charts_cfd: Diagrama de Fluxo Cumulativo
+  label_sprint_charts_open_closed: Problemas Abertos vs Fechados
+  label_sprint_charts_issue_type: Distribuição por Tipo de Problema
+  label_sprint_charts_team: Contribuição da Equipe
+  label_sprint_ended: Encerrada
+
+  label_sprint_difficulty_charts_velocity: Velocidade por Dificuldade
+  label_sprint_difficulty_charts_planned_vs_completed: Planejado vs Concluído por Dificuldade
+  label_sprint_difficulty_charts_burndown: Burndown por Dificuldade
+  label_sprint_difficulty_charts_distributionn: Distribuição de Dificuldade
+  label_sprint_difficulty_charts_trend: Tendência de Dificuldade
+  label_sprint_difficulty_team: Contribuição da Equipe por Dificuldade
+  label_sprint_difficulty_cycle: Dificuldade vs Tempo de Ciclo
+  label_sprint_difficulty_bugs: Dificuldade vs Bugs
+  label_sprint_difficulty_story_points: Story Points por Desenvolvedor & Dificuldade
+
+  label_sprint_issues: Issues in this Sprint
+  text_sprint_drop_issues: Drop issues here to assign
+  text_sprint_unassigned_issues: Unassigned Issues
+  label_back_to_sprint_list: Back to Sprint List
+  label_remove_from_sprint: Remove from Sprint
+
+  label_sprint_settings_legend: Notificações & Relatórios
+  label_sprint_settings_notify_on_complete: Notificar sobre a conclusão da sprint
+  text_sprint_settings_notify_on_complete: Enviar e-mail quando uma sprint for marcada como concluída
+  label_sprint_settings_monthly_report: Ativar relatório mensal
+  text_sprint_settings_monthly_report: Enviar relatórios mensais de sprints para gerentes ou e-mails personalizados
+  label_sprint_settings_report_day: Dia do relatório mensal
+  label_sprint_settings_report_recipients: Destinatários do relatório mensal (e-mails separados por vírgula)
+  text_sprint_settings_report_recipients: Deixe em branco para enviar aos Gerentes de Projeto de cada projeto
+
+  text_email_report_title: Relatório Mensal de Sprint
+  text_email_report_summary: Resumo
+  text_email_report_metric: étrica
+  text_email_report_total_sprints: Total de sprints no período
+  text_email_report_completed_sprints: Sprints Concluídas
+  text_email_report_open_sprints: Sprints Abertas
+  text_email_report_issues_resolved: Issues Resolvidas
+  text_email_report_closed_issues_period: Issues Fechadas no Período
+  text_email_report_story_points_completed: Story Points Concluídos
+  text_email_report_no_sprints_completed: Nenhuma sprint concluída durante este período de relatório
+  text_email_report_difficulty_breakdown: Análise de Dificuldade
+  text_email_report_closed_issues: Issues Fechadas
+  text_email_report_unspecified: Não Especificado
+  text_email_report_no_closed_issues: Nenhuma issue fechada com dificuldade registrada durante este período de relatório
+  text_email_report_detailed_charts: Para gráficos detalhados de burndown, tendências de velocidade e insights de backlog,
+        visite o
+  text_email_report_project_dashboard: Dashboard do Projeto
+  text_email_report_subscribe_info: Você está recebendo este relatório porque está inscrito para atualizações de sprint para
+  text_email_report_manage_notifications: Gerenciar configurações de notificação
+
+  text_email_report_sprint_completed: Sprint Concluída
+  text_email_report_project: Projeto
+  text_email_report_duration: Duração
+  text_email_report_view_dashboard: Ver Dashboard da Sprint
+  text_email_report_notification_info: Esta é uma notificação automática de
